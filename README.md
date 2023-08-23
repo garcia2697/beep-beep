@@ -17,7 +17,8 @@ Project completion is estimated to be 2 months, the estimated time for each part
 Step 1 and step 2 will be done in their own individual repository <br/>
 You can find the links for the repository below.
 - TBD
-- TBD
+- TBD <br/>
+
 Step 3 will be hosted in this repository
 
 ## Author
